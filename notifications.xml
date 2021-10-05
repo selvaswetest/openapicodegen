@@ -1,9 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IlluminatedCloudDebug" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="IlluminatedCloudEventLog" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="IlluminatedCloudMessages" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="IlluminatedCloudProblems" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="IlluminatedCloudStatusBar" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
